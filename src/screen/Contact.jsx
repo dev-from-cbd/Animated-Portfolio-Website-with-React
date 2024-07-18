@@ -6,7 +6,7 @@ import { CiLocationOn } from "react-icons/ci";
 export const Contact = () => {
   const [contactInfo, setContactInfo] = useState({
     phone: "+01 123 654 8096",
-    email: "gerolddesign@mail.com",
+    email: "veryfatwombat@mail.com",
     address: "Australia",
   });
 
@@ -16,7 +16,7 @@ export const Contact = () => {
       // Simulated data
       const dummyData = {
         phone: "+01 123 654 8096",
-        email: "gerolddesign@mail.com",
+        email: "veryfatwombat@mail.com",
         address: "Australia",
       };
 
