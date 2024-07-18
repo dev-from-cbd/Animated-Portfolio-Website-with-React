@@ -7,7 +7,7 @@ export const Contact = () => {
   const [contactInfo, setContactInfo] = useState({
     phone: "+01 123 654 8096",
     email: "gerolddesign@mail.com",
-    address: "Warne Park Street Pine, FL 33157, New York",
+    address: "Australia",
   });
 
   useEffect(() => {
@@ -17,7 +17,7 @@ export const Contact = () => {
       const dummyData = {
         phone: "+01 123 654 8096",
         email: "gerolddesign@mail.com",
-        address: "Warne Park Street Pine, FL 33157, New York",
+        address: "Australia",
       };
 
       // Simulate delay for fetching
