@@ -33,22 +33,22 @@ export const service = [
   {
     id: 1,
     title: "Branding Design",
-    text: "I break down complex user experinece problems to create integritiy focussed solutions that connect billions of people",
+    text: "I break down complex user experience problems to create integrity-focused solutions that connect thousands of people.",
   },
   {
     id: 2,
     title: "Web Design",
-    text: "I break down complex user experinece problems to create integritiy focussed solutions that connect billions of people",
+    text: "I simplify intricate user experience challenges to develop integrity-centered solutions that link thousands of individuals.",
   },
   {
     id: 3,
     title: "UI/UX Design",
-    text: "I break down complex user experinece problems to create integritiy focussed solutions that connect billions of people",
+    text: "I deconstruct complex user experience issues to design integrity-driven solutions that unite thousands of users.",
   },
   {
     id: 4,
     title: "Graphics Design",
-    text: "I break down complex user experinece problems to create integritiy focussed solutions that connect billions of people",
+    text: "I analyze and resolve complex user experience problems to craft integrity-based solutions that bring together thousands of people.",
   },
 ];
 
@@ -158,7 +158,8 @@ export const testimonialData = [
     id: 1,
     logo: "./images/testimonials/1.png",
     userImage: "../images/testimonials/testimonial-1.png",
-    quote: "“Oleg is a professional Designer he really helps my business by providing value to my business.",
+    quote:
+      "“Oleg is a professional Designer he really helps my business by providing value to my business.",
     name: "Brandon Fraser",
     designation: "Senior Software Dev, Cosmic Sport",
   },
@@ -166,7 +167,8 @@ export const testimonialData = [
     id: 2,
     logo: "./images/testimonials/2.png",
     userImage: "../images/testimonials/testimonial-2.png",
-    quote: "“Oleg is a professional Designer he really helps my business by providing value to my business.",
+    quote:
+      "“Oleg is a professional Designer he really helps my business by providing value to my business.",
     name: "Tim Bailey",
     designation: "SEO Specialist, Theme Junction",
   },
@@ -174,7 +176,8 @@ export const testimonialData = [
     id: 3,
     logo: "./images/testimonials/1.png",
     userImage: "../images/testimonials/1.jpg",
-    quote: "“Oleg is a professional Designer he really helps my business by providing value to my business.",
+    quote:
+      "“Oleg is a professional Designer he really helps my business by providing value to my business.",
     name: "Emily Watson",
     designation: "Product Manager, Digital World",
   },
@@ -182,7 +185,8 @@ export const testimonialData = [
     id: 4,
     logo: "./images/testimonials/2.png",
     userImage: "../images/testimonials/2.jpg",
-    quote: "“Oleg is a professional Designer he really helps my business by providing value to my business.",
+    quote:
+      "“Oleg is a professional Designer he really helps my business by providing value to my business.",
     name: "John Doe",
     designation: "Marketing Executive, Tech Solutions",
   },
@@ -190,7 +194,8 @@ export const testimonialData = [
     id: 5,
     logo: "./images/testimonials/1.png",
     userImage: "../images/testimonials/1.jpg",
-    quote: "“Oleg is a professional Designer he really helps my business by providing value to my business.",
+    quote:
+      "“Oleg is a professional Designer he really helps my business by providing value to my business.",
     name: "Sarah Johnson",
     designation: "UX/UI Designer, Creative Minds",
   },
@@ -271,13 +276,19 @@ export const projectsDetails = [
     client: "Artboard Studio",
     startDate: "August 20, 2024",
     designer: "ThemeJunction",
-    description: "They are was greater open above shelter lets itself under appear sixth open gathering made upon can't own above midst gathering gathered he one us saying can't divide.",
+    description:
+      "They are was greater open above shelter lets itself under appear sixth open gathering made upon can't own above midst gathering gathered he one us saying can't divide.",
     description2:
       "They are was greater open above shelter lets itself under appear sixth open gathering made upon can't own above midst gathering gathered he one us saying can't divide. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
     story:
       "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
     approach:
       "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
-    images: ["../images/portfolio/p-gallery-1.jpg", "../images/portfolio/p-gallery-2.jpg", "../images/portfolio/p-gallery-3.jpg", "../images/portfolio/p-gallery-4.jpg"],
+    images: [
+      "../images/portfolio/p-gallery-1.jpg",
+      "../images/portfolio/p-gallery-2.jpg",
+      "../images/portfolio/p-gallery-3.jpg",
+      "../images/portfolio/p-gallery-4.jpg",
+    ],
   },
 ];
