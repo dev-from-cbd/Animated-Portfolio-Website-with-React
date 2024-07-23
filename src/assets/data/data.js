@@ -56,7 +56,7 @@ export const projects = [
   {
     id: 1,
     title: "Expense Tracker App",
-    desc: "An expense tracker app that helps users keep track of their expenses, set budgets, and analyze spending habits.",
+    desc: "A personal finance tool that enables users to monitor their spending, create financial goals, and visualize their monetary patterns.",
     cover: "../images/portfolio/p1.jpg",
   },
   {
