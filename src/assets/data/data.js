@@ -62,7 +62,7 @@ export const projects = [
   {
     id: 2,
     title: "Fitness Tracker App",
-    desc: "A fitness tracker app designed to help users track their workouts, set fitness goals, and monitor progress.",
+    desc: "A workout companion app that helps users log their exercises, establish fitness objectives, and track their improvement over time.",
     cover: "../images/portfolio/p2.jpg",
   },
   {
