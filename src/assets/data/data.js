@@ -94,27 +94,27 @@ export const projects = [
 export const experienceData = [
   {
     id: 1,
-    time: "2022 - Present",
-    title: "Lead Developer",
-    institute: "Blockdots, London",
+    time: "2024 - Present",
+    title: "Web Developer",
+    institute: "Codezima, Sydney",
   },
   {
     id: 2,
-    time: "2021 - 2022",
-    title: "Full Stack Web Developer",
-    institute: "Parsons, The New School",
+    time: "2023 - 2023",
+    title: "Junior Developer",
+    institute: "Codesford, Melbourne",
   },
   {
     id: 3,
-    time: "2020 - 2021",
-    title: "UI Designer",
-    institute: "House of Life, Leeds",
+    time: "2022 - 2022",
+    title: "Junior Developer",
+    institute: "Darenta, Adelaide",
   },
   {
     id: 4,
-    time: "2018 - 2020",
-    title: "Junior Graphics Designer",
-    institute: "Theme Junction, Bursa",
+    time: "2021 - 2021",
+    title: "Junior Developer",
+    institute: "Pet Project, Bendigo",
   },
 ];
 
