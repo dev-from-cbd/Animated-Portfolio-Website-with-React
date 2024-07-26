@@ -121,27 +121,27 @@ export const experienceData = [
 export const educationData = [
   {
     id: 1,
-    time: "2020 - 2023",
+    time: "2024 - 2024",
     title: "Programming course",
-    institute: "Harverd University",
+    institute: "ChatGPT",
   },
   {
     id: 2,
-    time: "2016 - 2020",
+    time: "2023 - 2023",
     title: "Graphic design course",
-    institute: "University of Denmark",
+    institute: "Youtube",
   },
   {
     id: 3,
-    time: "2012 - 2015",
+    time: "2022 - 2022",
     title: "Web design course",
-    institute: "University of California",
+    institute: "Stackoverflow",
   },
   {
     id: 4,
-    time: "2010 - 2011",
+    time: "2021 - 2021",
     title: "Design & Technology",
-    institute: "Parsons, The New School",
+    institute: "Google",
   },
 ];
 
