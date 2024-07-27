@@ -159,45 +159,45 @@ export const testimonialData = [
     logo: "./images/testimonials/1.png",
     userImage: "../images/testimonials/testimonial-1.png",
     quote:
-      "“Oleg is a professional Designer he really helps my business by providing value to my business.",
-    name: "Brandon Fraser",
-    designation: "Senior Software Dev, Cosmic Sport",
+      "“Oleg's quick optimization of our website's loading speed resulted in a 51% increase in user engagement and sales conversion rates.",
+    name: "Brandon Lea",
+    designation: "Senior Software Dev, Comic Sport",
   },
   {
     id: 2,
     logo: "./images/testimonials/2.png",
     userImage: "../images/testimonials/testimonial-2.png",
     quote:
-      "“Oleg is a professional Designer he really helps my business by providing value to my business.",
-    name: "Tim Bailey",
-    designation: "SEO Specialist, Theme Junction",
+      "“Thanks to Oleg's implementation of a robust search functionality, our e-commerce platform saw a 32% boost in average order value.",
+    name: "Tim Tummy",
+    designation: "SEO Specialist, Bendig Hetto",
   },
   {
     id: 3,
     logo: "./images/testimonials/1.png",
     userImage: "../images/testimonials/1.jpg",
     quote:
-      "“Oleg is a professional Designer he really helps my business by providing value to my business.",
-    name: "Emily Watson",
-    designation: "Product Manager, Digital World",
+      "“Oleg integrated a payment system into our website in just one day, resulting in our business earning an additional million dollars last month.",
+    name: "Dr Watson",
+    designation: "Product Manager, Digital Sydney",
   },
   {
     id: 4,
     logo: "./images/testimonials/2.png",
     userImage: "../images/testimonials/2.jpg",
     quote:
-      "“Oleg is a professional Designer he really helps my business by providing value to my business.",
-    name: "John Doe",
-    designation: "Marketing Executive, Tech Solutions",
+      "“Oleg developed a custom analytics dashboard, providing invaluable insights that helped us reduce operational costs by 26% in just two months.",
+    name: "Johnna Doe",
+    designation: "Marketing Executive, Tech Mach",
   },
   {
     id: 5,
     logo: "./images/testimonials/1.png",
     userImage: "../images/testimonials/1.jpg",
     quote:
-      "“Oleg is a professional Designer he really helps my business by providing value to my business.",
-    name: "Sarah Johnson",
-    designation: "UX/UI Designer, Creative Minds",
+      "“Within a week, Oleg implemented a complete user authentication system, leading to thousands of new sign-ups and expanding our email marketing reach.",
+    name: "John Doe",
+    designation: "UX/UI Designer, Bendibo Guns",
   },
 ];
 
