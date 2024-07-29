@@ -271,17 +271,17 @@ export const blogs = [
 export const projectsDetails = [
   {
     id: 1,
-    title: "DStudio",
+    title: "Web Studio",
     category: "Web Design",
-    client: "Artboard Studio",
+    client: "beW Studio",
     startDate: "August 20, 2024",
     designer: "ThemeJunction",
     description:
-      "They are was greater open above shelter lets itself under appear sixth open gathering made upon can't own above midst gathering gathered he one us saying can't divide.",
+      "The project helps users design custom web pages, store data securely, and update content easily with intuitive tools for everyone.",
     description2:
-      "They are was greater open above shelter lets itself under appear sixth open gathering made upon can't own above midst gathering gathered he one us saying can't divide. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+      "This web project allows users to design custom web pages easily. It features secure data storage and real-time updates. The intuitive interface is user-friendly for all skill levels. With a variety of templates available, users can showcase their work professionally. If you are going to use this tool, you need to be sure it meets all your needs without any issues. There are many options, but this one stands out for its simplicity and reliability.",
     story:
-      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+      "The client faced several challenges in creating their web project. They lacked experience in web development and needed a simple, intuitive tool. Existing solutions were too complex and required technical knowledge the client didn't possess. Additionally, data security was a major concern, as they needed to store confidential information about their clients. My web project addressed these issues by providing a platform with an easy-to-use interface that required no special skills. With a variety of templates, the client could quickly and effortlessly create professional-looking web pages. The implemented security system ensured safe data storage, alleviating all of the client’s concerns. Real-time updates allowed them to keep content current without extra effort.",
     approach:
       "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
     images: [
