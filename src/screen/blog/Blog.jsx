@@ -9,7 +9,10 @@ export const Blog = () => {
         <div className="container">
           <div className="section-header text">
             <h2 className="section-title">Recent Blogs</h2>
-            <p>We put your ideas and thus your wishes in the form of a unique web project that inspires you and your customers.</p>
+            <p>
+              I transform your ideas and desires into a unique web project that
+              inspires both you and your customers.
+            </p>
           </div>
           <div className="grid4">
             {blogs.map((blog) => (
