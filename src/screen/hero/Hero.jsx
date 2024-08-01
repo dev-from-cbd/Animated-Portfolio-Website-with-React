@@ -38,10 +38,10 @@ export const Hero = () => {
           <div className="content flexSB">
             <div className="left w-half">
               <div className="hero-content-box">
-                <span className="hero-sub-title">I am Richard</span>
+                <span className="hero-sub-title">I am Oleg</span>
                 <h1 className="hero-title">
                   Web Developer +<br />
-                  UX Designer
+                  UX/UI Expert
                 </h1>
 
                 <div className="hero-image-box d-md-none text-center">
