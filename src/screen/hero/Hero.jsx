@@ -48,7 +48,10 @@ export const Hero = () => {
                   <img src="assets/img/hero/me.png" alt="" />
                 </div>
 
-                <p className="lead">I break down complex user experinece problems to create integritiy focussed solutions that connect billions of people</p>
+                <p className="lead">
+                  I transform complicated user experience problems into
+                  integrity-centered solutions, linking hundreds of people.
+                </p>
                 <div className="button-box flexG">
                   <a href="#" className="btn tj-btn-secondary">
                     Download CV <i className="flaticon-download"></i>
