@@ -53,7 +53,7 @@ export const Hero = () => {
                   integrity-centered solutions, linking hundreds of people.
                 </p>
                 <div className="button-box flexG">
-                  <a href="#" className="btn tj-btn-secondary">
+                  <a href="https://github.com/dev-from-cbd/React-Responsive-Portfolio-Website/blob/main/src/assets/cv.pdf" className="btn tj-btn-secondary">
                     Download CV <i className="flaticon-download"></i>
                   </a>
                   <ul className="ul-reset social-icons">
