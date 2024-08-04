@@ -9,7 +9,10 @@ export const Portfolio = () => {
         <div className="container">
           <div className="section-header text-center">
             <h2 className="section-title">My Recent Works</h2>
-            <p>We put your ideas and thus your wishes in the form of a unique web project that inspires you and you customers.</p>
+            <p>
+              I take your concepts and desires and shape them into a distinctive
+              web project that motivates you and your clients.
+            </p>
           </div>
 
           <div className="portfolio-filter text-center">
