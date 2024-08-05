@@ -72,7 +72,7 @@ export const PortfolioDetails = () => {
                 </div>
                 <div className="portfolio_approach">
                   <div className="approach_title">
-                    <h4 className="title">OUR APPROACH</h4>
+                    <h4 className="title">My Approach</h4>
                   </div>
                   <div className="approach_content">
                     <p>{project.approach}</p>
