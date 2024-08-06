@@ -86,7 +86,7 @@ export const PortfolioDetails = () => {
                   <i className="fal fa-arrow-left"></i>
                   <div className="nav_project">
                     <div className="label">Previous Project</div>
-                    <h3 className="title">Sebastian</h3>
+                    <h3 className="title">Yusuf Dikeç</h3>
                   </div>
                 </a>
               </div>
@@ -95,7 +95,7 @@ export const PortfolioDetails = () => {
                 <a href="#" className="project">
                   <div className="nav_project">
                     <div className="label">Next Project</div>
-                    <h3 className="title">Qwillo</h3>
+                    <h3 className="title">Elon Musk</h3>
                   </div>
                   <i>
                     <FaArrowRight size={50} />
