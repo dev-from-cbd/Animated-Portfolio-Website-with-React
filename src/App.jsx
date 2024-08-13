@@ -3,6 +3,7 @@ import { Home, Layout, PortfolioDetails } from "./utils/Router";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 function App() {
+  const [showLoader, setShowLoader] = useState(true);
   return (
     <>
       <h1>H1</h1>
