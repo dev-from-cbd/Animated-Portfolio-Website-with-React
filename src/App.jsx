@@ -4,6 +4,13 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 function App() {
   const [showLoader, setShowLoader] = useState(true);
+
+  useEffect(() => {
+    const timer = setTimeout(() => (
+      setShowLoader
+    ))
+  }, );
+  
   return (
     <>
       <h1>H1</h1>
