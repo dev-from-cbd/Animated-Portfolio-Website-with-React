@@ -6,11 +6,9 @@ function App() {
   const [showLoader, setShowLoader] = useState(true);
 
   useEffect(() => {
-    const timer = setTimeout(() => (
-      setShowLoader
-    ))
-  }, );
-  
+    const timer = setTimeout(() => setShowLoader(false));
+  });
+
   return (
     <>
       <h1>H1</h1>
