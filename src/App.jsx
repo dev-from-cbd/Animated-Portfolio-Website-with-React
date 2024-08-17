@@ -9,7 +9,9 @@ function App() {
     const timer = setTimeout(() => {
       setShowLoader(false);
     }, 5000);
-  });
+
+    return () => clearTimeout(timer);
+  }, []);
 
   return (
     <>
