@@ -15,6 +15,7 @@ function App() {
 
   return (
     <>
+      {showLoader && <div className="preloader">preloader</div>}
       <h1>H1</h1>
     </>
   );
