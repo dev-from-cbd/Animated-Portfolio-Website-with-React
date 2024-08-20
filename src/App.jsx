@@ -17,7 +17,7 @@ function App() {
     <>
       {showLoader && (
         <div className="preloader">
-          <svg viewBox="0 0 1000 1000"></svg>
+          <svg viewBox="0 0 1000 1000" preserveAspectRatio="none"></svg>
         </div>
       )}
       <h1>H1</h1>
