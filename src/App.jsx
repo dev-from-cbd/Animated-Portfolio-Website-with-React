@@ -15,7 +15,11 @@ function App() {
 
   return (
     <>
-      {showLoader && <div className="preloader">preloader</div>}
+      {showLoader && (
+        <div className="preloader">
+          <svg viewBox="0 0 1000 1000"></svg>
+        </div>
+      )}
       <h1>H1</h1>
     </>
   );
